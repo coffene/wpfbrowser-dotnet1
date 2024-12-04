@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XefZVM6CgDA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\icestorm\\RiderProjects\\wpfbrowser\\wpfbrowser\\wpfbrowser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\icestorm\\.nuget\\packages\\microsoft.web.webview2\\1.0.2950-prerelease\\microsoft.web.webview2.1.0.2950-prerelease.nupkg.sha512"
+  ],
+  "logs": []
+}
